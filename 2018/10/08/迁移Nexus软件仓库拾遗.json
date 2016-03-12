@@ -1,0 +1,17 @@
+{
+    "date": "2018-10-08 16:17:00",
+    "title": "迁移 Nexus 软件仓库拾遗",
+    "slug": "how-to-migrate-nexus",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CI/CD",
+        "Linux/Mac",
+        "Nexus",
+        "软件仓库"
+    ]
+}

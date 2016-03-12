@@ -1,0 +1,18 @@
+{
+    "date": "2018-12-16 23:00:00",
+    "title": "使用 Docker 和 Nginx 实现简单目录索引服务",
+    "slug": "implement-a-simple-directory-indexing-service-using-docker-and-nginx",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "AutoIndex",
+        "Docker",
+        "Linux/Mac",
+        "Nginx",
+        "Traefik"
+    ]
+}

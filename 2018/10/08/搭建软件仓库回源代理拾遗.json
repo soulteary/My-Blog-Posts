@@ -1,0 +1,19 @@
+{
+    "date": "2018-10-08 13:45:00",
+    "title": "搭建软件仓库回源代理拾遗",
+    "slug": "how-to-set-hub-proxy",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CI/CD",
+        "Proxy",
+        "Linux/Mac",
+        "软件仓库",
+        "下载宝",
+        "硬件经验"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2013-04-15 03:50:45",
+    "title": "XSS事项 你所想知道的跨站攻击",
+    "slug": "about-cross-site-scripting-xss-attacks",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "HTML",
+        "JavaScript",
+        "XSS",
+        "资料收集",
+        "跨站攻击"
+    ]
+}

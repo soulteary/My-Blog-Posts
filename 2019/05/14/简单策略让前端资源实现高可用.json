@@ -1,0 +1,15 @@
+{
+    "date": "2019-05-14 19:59:00",
+    "title": "简单策略让前端资源实现高可用",
+    "slug": "simple-policies-make-front-end-resources-highly-available",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "性能优化"
+    ]
+}

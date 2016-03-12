@@ -1,0 +1,16 @@
+{
+    "date": "2018-08-15 12:47:00",
+    "title": "群晖系统上的 Docker 使用拾遗",
+    "slug": "docker-on-synology-gleaning",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Docker",
+        "Linux/Mac",
+        "Synology"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "date": "2014-09-30 05:04:30",
+    "title": "WordPress 简单提权工具",
+    "slug": "steals-wordpress-privileges",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "PHP",
+        "WordPress",
+        "忘记密码",
+        "提升权限"
+    ]
+}

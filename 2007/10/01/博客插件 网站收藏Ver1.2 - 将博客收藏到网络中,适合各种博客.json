@@ -1,0 +1,15 @@
+{
+    "date": "2007-10-01 22:09:20",
+    "title": "博客插件 网站收藏Ver1.2 - 将博客收藏到网络中，适合各种博客",
+    "slug": "blog-plugin-bookmark-2",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "HTML",
+        "收藏插件"
+    ]
+}

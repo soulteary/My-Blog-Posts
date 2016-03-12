@@ -1,0 +1,19 @@
+{
+    "date": "2020-02-01 14:47:00",
+    "title": "配置基于Traefik v2的 Web 服务器",
+    "slug": "configure-traefik-v2-based-web-server",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Docker",
+        "Linux/Mac",
+        "Traefik",
+        "服务发现",
+        "Ubuntu"
+    ]
+}
+

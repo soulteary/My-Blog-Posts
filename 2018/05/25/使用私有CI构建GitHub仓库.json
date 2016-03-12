@@ -1,0 +1,17 @@
+{
+    "date": "2018-05-25 15:12:00",
+    "title": "使用私有CI构建GitHub仓库",
+    "slug": "building-a-github-repository-with-private-ci",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CI/CD",
+        "GitHub",
+        "Linux/Mac",
+        "代码仓库"
+    ]
+}

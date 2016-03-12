@@ -1,0 +1,17 @@
+{
+    "date": "2019-07-28 18:00:00",
+    "title": "使用 Node.js 生成方便传播的图片",
+    "slug": "use-nodejs-to-generate-easy-to-spread-images",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "图片生成",
+        "Linux/Mac",
+        "Node.js",
+        "Puppeteer"
+    ]
+}

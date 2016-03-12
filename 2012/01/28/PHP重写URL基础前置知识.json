@@ -1,0 +1,19 @@
+{
+    "date": "2012-01-28 07:00:37",
+    "title": "PHP重写URL基础前置知识",
+    "slug": "php%e9%87%8d%e5%86%99url%e5%9f%ba%e7%a1%80%e5%89%8d%e7%bd%ae%e7%9f%a5%e8%af%86",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Apache",
+        "PHP",
+        "URL",
+        "mod_rewrite",
+        "rewrite"
+    ],
+    "alias": "php%e9%87%8d%e5%86%99url%e5%9f%ba%e7%a1%80%e5%89%8d%e7%bd%ae%e7%9f%a5%e8%af%86"
+}

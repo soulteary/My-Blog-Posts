@@ -1,0 +1,17 @@
+{
+    "date": "2019-05-07 23:22:00",
+    "title": "使用 Docker 封装 Python 小工具生成 GitBook PDF",
+    "slug": "generate-small-gitbook-pdf-using-the-docker-with-python",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "GitBook",
+        "Python",
+        "Docker",
+        "Linux/Mac"
+    ]
+}

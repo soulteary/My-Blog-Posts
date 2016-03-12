@@ -1,0 +1,19 @@
+{
+    "date": "2013-04-15 10:26:15",
+    "title": "XSS事项 如何过滤用户输入页面内的正常内容",
+    "slug": "howto-filter-user-input-in-regular-body-text",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "HTML",
+        "JavaScript",
+        "XSS",
+        "实体",
+        "资料收集",
+        "跨站"
+    ]
+}

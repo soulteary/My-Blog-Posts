@@ -1,0 +1,17 @@
+{
+    "date": "2020-03-22 12:09:00",
+    "title": "Ruby 应用容器封装踩坑记录（Lobsters）",
+    "slug": "dockerize-ruby-application-lobsters",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Lobsters",
+        "Ruby",
+        "Docker"
+    ]
+}
+

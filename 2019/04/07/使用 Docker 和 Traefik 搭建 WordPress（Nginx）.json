@@ -1,0 +1,18 @@
+{
+    "date": "2019-04-07 12:28:00",
+    "title": "使用 Docker 和 Traefik 搭建 WordPress（Nginx）",
+    "slug": "use-docker-and-traefik-to-build-wordpress-with-nginx",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Linux/Mac",
+        "Nginx",
+        "Traefik",
+        "Docker",
+        "WordPress"
+    ]
+}

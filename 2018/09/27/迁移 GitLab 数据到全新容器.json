@@ -1,0 +1,18 @@
+{
+    "date": "2018-09-27 13:21:00",
+    "title": "迁移 GitLab 数据到全新容器",
+    "slug": "migrate-your-gitlab",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Docker",
+        "GitLab",
+        "Linux/Mac",
+        "数据迁移",
+        "Ubuntu"
+    ]
+}

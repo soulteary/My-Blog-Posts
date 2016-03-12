@@ -1,0 +1,15 @@
+{
+    "date": "2014-01-18 10:44:47",
+    "title": "JS tasker",
+    "slug": "js-tasker",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "tasker"
+    ]
+}

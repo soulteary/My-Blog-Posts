@@ -1,0 +1,17 @@
+{
+    "date": "2015-01-24 23:26:12",
+    "title": "简单配置服务端代理Tengine",
+    "slug": "configure-tengine",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Linux/Mac",
+        "Nginx",
+        "Tengine",
+        "基础配置"
+    ]
+}

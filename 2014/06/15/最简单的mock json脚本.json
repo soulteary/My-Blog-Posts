@@ -1,0 +1,16 @@
+{
+    "date": "2014-06-15 11:34:24",
+    "title": "最简单的mock json脚本",
+    "slug": "simple-mock-json-via-php",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "PHP",
+        "json",
+        "mock"
+    ]
+}

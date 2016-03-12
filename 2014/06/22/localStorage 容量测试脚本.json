@@ -1,0 +1,16 @@
+{
+    "date": "2014-06-22 11:44:16",
+    "title": "localStorage 容量测试脚本",
+    "slug": "localstorage-limit-test",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "localstorage",
+        "test"
+    ]
+}

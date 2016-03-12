@@ -1,0 +1,16 @@
+{
+    "date": "2020-04-25 05:31:00",
+    "title": "服务端升级 Ubuntu 20.04 LTS 记录",
+    "slug": "server-upgrade-ubuntu-20-04-lts",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Linux/Mac",
+        "Ubuntu",
+        "基础配置"
+    ]
+}

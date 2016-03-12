@@ -1,0 +1,17 @@
+{
+    "date": "2019-08-04 01:31:00",
+    "title": "源码编译 GitLab Runner",
+    "slug": "source-code-compilation-gitlab-runner",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CI/CD",
+        "GitLab",
+        "Linux/Mac",
+        "代码仓库"
+    ]
+}

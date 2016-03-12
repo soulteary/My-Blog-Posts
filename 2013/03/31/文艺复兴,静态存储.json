@@ -1,0 +1,16 @@
+{
+    "date": "2013-03-31 20:22:23",
+    "title": "文艺复兴，静态存储",
+    "slug": "renaissance-static-database",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "PHP",
+        "Web",
+        "静态储存"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "date": "2012-05-30 12:31:40",
+    "title": "MimeTypes Error",
+    "slug": "mimetypes-error",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Apache",
+        "Web",
+        "mime-type"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2020-02-02 01:11:00",
+    "title": "使用 Docker 和 Traefik v2 搭建 Phabricator",
+    "slug": "phabricator-with-docker-and-traefik-v2",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Phabricator",
+        "Docker",
+        "Linux/Mac",
+        "Traefik"
+    ]
+}
+

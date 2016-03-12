@@ -1,0 +1,22 @@
+{
+    "date": "2012-02-11 14:25:31",
+    "title": "PHP木马变形",
+    "slug": "php%e6%9c%a8%e9%a9%ac%e5%8f%98%e5%bd%a2",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "生活点滴",
+            "slug": "life"
+        }
+    ],
+    "tag": [
+        "PHP",
+        "免杀",
+        "变形",
+        "木马"
+    ],
+    "alias": "php%e6%9c%a8%e9%a9%ac%e5%8f%98%e5%bd%a2"
+}

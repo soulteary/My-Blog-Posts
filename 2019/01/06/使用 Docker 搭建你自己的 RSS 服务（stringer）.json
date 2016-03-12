@@ -1,0 +1,18 @@
+{
+    "date": "2019-01-06 00:00:00",
+    "title": "使用 Docker 搭建你自己的 RSS 服务（stringer）",
+    "slug": "build-your-own-rss-service-with-docker-stringer",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Docker",
+        "Linux/Mac",
+        "RSS",
+        "Stringer",
+        "Traefik"
+    ]
+}

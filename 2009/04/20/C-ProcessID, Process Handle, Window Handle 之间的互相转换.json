@@ -1,0 +1,20 @@
+{
+    "date": "2009-04-20 00:34:49",
+    "title": "[C]ProcessID, Process Handle, Window Handle 之间的互相转换",
+    "slug": "processid-process-handle-window-handle",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "C",
+        "C &amp; C++",
+        "Process Handle",
+        "ProcessID",
+        "Window Handle",
+        "Windows",
+        "转换"
+    ]
+}

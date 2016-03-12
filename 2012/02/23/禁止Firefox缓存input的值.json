@@ -1,0 +1,19 @@
+{
+    "date": "2012-02-23 14:55:19",
+    "title": "禁止Firefox缓存input的值",
+    "slug": "%e7%a6%81%e6%ad%a2firefox%e7%bc%93%e5%ad%98%e6%8e%a7%e4%bb%b6%e7%9a%84%e5%80%bc",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "PHP",
+        "firefox",
+        "input",
+        "禁止",
+        "缓存"
+    ],
+    "alias": "%e7%a6%81%e6%ad%a2firefox%e7%bc%93%e5%ad%98%e6%8e%a7%e4%bb%b6%e7%9a%84%e5%80%bc"
+}

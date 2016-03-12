@@ -1,0 +1,9 @@
+# OSX
+.DS_Store
+
+# intellj idea
+*.iml
+.idea
+
+# Ulysses
+.Ulysses*

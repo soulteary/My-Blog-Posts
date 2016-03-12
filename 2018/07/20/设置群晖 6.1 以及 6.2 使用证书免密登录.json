@@ -1,0 +1,16 @@
+{
+    "date": "2018-07-20 16:53:00",
+    "title": "设置群晖 6.1 以及 6.2 使用证书免密登录",
+    "slug": "synology-passwordless-ssh",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Linux",
+        "Linux/Mac",
+        "Synology"
+    ]
+}

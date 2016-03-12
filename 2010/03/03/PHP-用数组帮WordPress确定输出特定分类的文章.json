@@ -1,0 +1,16 @@
+{
+    "date": "2010-03-03 14:11:30",
+    "title": "[PHP]用数组帮WordPress确定输出特定分类的文章",
+    "slug": "expect-target-categories-in-wordpress-by-array",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "PHP",
+        "WORDPRESS",
+        "指定分类"
+    ]
+}

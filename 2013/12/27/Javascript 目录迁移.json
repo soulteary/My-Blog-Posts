@@ -1,0 +1,16 @@
+{
+    "date": "2013-12-27 20:34:40",
+    "title": "Javascript 目录迁移",
+    "slug": "javascript-calc-categories",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "去重",
+        "目录"
+    ]
+}

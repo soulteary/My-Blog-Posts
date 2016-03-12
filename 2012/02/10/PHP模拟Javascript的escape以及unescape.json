@@ -1,0 +1,19 @@
+{
+    "date": "2012-02-10 12:49:49",
+    "title": "PHP模拟Javascript的escape以及unescape",
+    "slug": "php%e6%a8%a1%e6%8b%9fjavascript%e7%9a%84escape%e4%bb%a5%e5%8f%8aunescape",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "PHP",
+        "escape",
+        "json",
+        "unescape"
+    ],
+    "alias": "php%e6%a8%a1%e6%8b%9fjavascript%e7%9a%84escape%e4%bb%a5%e5%8f%8aunescape"
+}

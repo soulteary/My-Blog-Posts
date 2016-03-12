@@ -1,0 +1,19 @@
+{
+    "date": "2020-02-04 18:01:00",
+    "title": "使用 Docker 和 Traefik v1 搭建轻量代码仓库（Gogs）",
+    "slug": "gogs-git-server-with-docker-and-traefik-v1",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Gogs",
+        "Git",
+        "Docker",
+        "Linux/Mac",
+        "Traefik"
+    ]
+}
+

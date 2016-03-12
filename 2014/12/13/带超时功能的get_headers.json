@@ -1,0 +1,17 @@
+{
+    "date": "2014-12-13 07:41:12",
+    "title": "带超时功能的get_headers",
+    "slug": "php-get_headers-with-timeout",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "GET",
+        "PHP",
+        "header",
+        "timeout"
+    ]
+}

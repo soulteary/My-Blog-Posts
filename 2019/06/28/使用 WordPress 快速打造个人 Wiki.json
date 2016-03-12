@@ -1,0 +1,17 @@
+{
+    "date": "2019-06-28 23:24:00",
+    "title": "使用 WordPress 快速打造个人 Wiki",
+    "slug": "quickly-create-a-personal-wiki-with-wordpress",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Linux/Mac",
+        "Wiki",
+        "PHP",
+        "WordPress"
+    ]
+}

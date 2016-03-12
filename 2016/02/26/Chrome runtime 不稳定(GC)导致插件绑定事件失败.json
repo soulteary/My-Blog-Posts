@@ -1,0 +1,16 @@
+{
+    "date": "2016-02-26 23:18:44",
+    "title": "Chrome runtime 不稳定（GC）导致插件绑定事件失败",
+    "slug": "chrome-extension-init-error",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Chrome",
+        "JavaScript",
+        "extension"
+    ]
+}

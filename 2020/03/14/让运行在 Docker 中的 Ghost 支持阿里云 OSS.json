@@ -1,0 +1,20 @@
+{
+    "date": "2020-03-14 21:30:00",
+    "title": "让运行在 Docker 中的 Ghost 支持阿里云 OSS",
+    "slug": "ghost-running-in-docker-supports-alibaba-cloud-oss",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Ghost",
+        "Docker",
+        "Traefik",
+        "Linux/Mac",
+        "Node.js"
+    ]
+}
+
+

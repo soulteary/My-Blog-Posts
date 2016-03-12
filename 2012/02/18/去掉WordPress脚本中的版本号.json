@@ -1,0 +1,18 @@
+{
+    "date": "2012-02-18 16:28:08",
+    "title": "去掉WordPress脚本中的版本号",
+    "slug": "%e5%8e%bb%e6%8e%89wordpress%e8%84%9a%e6%9c%ac%e4%b8%ad%e7%9a%84%e7%89%88%e6%9c%ac%e5%8f%b7",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "PHP",
+        "WordPress",
+        "版本",
+        "缓存"
+    ],
+    "alias": "%e5%8e%bb%e6%8e%89wordpress%e8%84%9a%e6%9c%ac%e4%b8%ad%e7%9a%84%e7%89%88%e6%9c%ac%e5%8f%b7"
+}

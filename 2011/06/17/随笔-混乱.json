@@ -1,0 +1,18 @@
+{
+    "date": "2011-06-17 01:01:23",
+    "title": "[随笔]混乱",
+    "slug": "choas",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "生活点滴",
+            "slug": "life"
+        }
+    ],
+    "tag": [
+        "我的草稿"
+    ]
+}

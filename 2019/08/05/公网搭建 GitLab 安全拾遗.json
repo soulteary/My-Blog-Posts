@@ -1,0 +1,17 @@
+{
+    "date": "2019-08-05 01:37:00",
+    "title": "公网搭建 GitLab 安全拾遗",
+    "slug": "public-network-to-build-gitlab-security",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CI/CD",
+        "GitLab",
+        "Linux/Mac",
+        "代码仓库"
+    ]
+}

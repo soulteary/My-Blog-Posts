@@ -1,0 +1,17 @@
+{
+    "date": "2020-03-09 02:42:00",
+    "title": "从定制 Ghost 镜像聊聊优化 Dockerfile",
+    "slug": "optimize-dockerfile-from-custom-ghost-image",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Ghost",
+        "Docker",
+        "Linux/Mac",
+        "Node.js"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2011-05-22 22:11:54",
+    "title": "[随笔]一张设计小图",
+    "slug": "%e4%b8%80%e5%bc%a0%e8%ae%be%e8%ae%a1%e5%b0%8f%e5%9b%be",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "生活点滴",
+            "slug": "life"
+        }
+    ],
+    "tag": [
+        "HTML",
+        "我的草稿",
+        "设计"
+    ],
+    "alias": "%e4%b8%80%e5%bc%a0%e8%ae%be%e8%ae%a1%e5%b0%8f%e5%9b%be"
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2019-05-02 21:34:00",
+    "title": "使用 Docker 和 Traefik 搭建 Vault",
+    "slug": "build-vault-using-docker-and-traefik",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Vault",
+        "Traefik",
+        "Docker",
+        "CI/CD",
+        "Linux/Mac"
+    ]
+}

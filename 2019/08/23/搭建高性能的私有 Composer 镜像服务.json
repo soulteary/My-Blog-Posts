@@ -1,0 +1,18 @@
+{
+    "date": "2019-08-23 16:32:00",
+    "title": "搭建高性能的私有 Composer 镜像服务",
+    "slug": "build-a-high-performance-private-composer-image-service",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Composer",
+        "PHP",
+        "Docker",
+        "Linux/Mac",
+        "代码仓库"
+    ]
+}

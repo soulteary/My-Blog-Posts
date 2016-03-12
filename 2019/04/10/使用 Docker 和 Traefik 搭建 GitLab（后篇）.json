@@ -1,0 +1,18 @@
+{
+    "date": "2019-04-10 19:52:00",
+    "title": "使用 Docker 和 Traefik 搭建 GitLab（后篇）",
+    "slug": "gitlab-was-built-with-docker-and-traefik-part-2",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "GitLab",
+        "Traefik",
+        "Docker",
+        "CI/CD",
+        "Linux/Mac"
+    ]
+}

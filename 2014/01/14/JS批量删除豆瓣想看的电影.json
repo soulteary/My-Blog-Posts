@@ -1,0 +1,15 @@
+{
+    "date": "2014-01-14 07:08:15",
+    "title": "JS批量删除豆瓣想看的电影",
+    "slug": "use-js-to-remove-douban-stared-movie",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "删除豆瓣电影"
+    ]
+}

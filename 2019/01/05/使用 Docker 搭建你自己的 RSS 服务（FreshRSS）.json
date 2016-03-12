@@ -1,0 +1,18 @@
+{
+    "date": "2019-01-05 20:53:00",
+    "title": "使用 Docker 搭建你自己的 RSS 服务（FreshRSS）",
+    "slug": "build-your-own-rss-service-with-docker-freshrss",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Docker",
+        "FreshRSS",
+        "Linux/Mac",
+        "RSS",
+        "Traefik"
+    ]
+}

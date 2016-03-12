@@ -1,0 +1,19 @@
+{
+    "date": "2020-03-08 05:30:00",
+    "title": "使用 Docker 搭建私有软件仓库 Nexus 3",
+    "slug": "use-docker-to-build-private-software-repositories-nexus-v3",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Nexus",
+        "软件仓库",
+        "Docker",
+        "Traefik",
+        "CI/CD",
+        "Linux/Mac"
+    ]
+}

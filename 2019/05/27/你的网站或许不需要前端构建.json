@@ -1,0 +1,15 @@
+{
+    "date": "2019-05-27 01:23:00",
+    "title": "你的网站或许不需要前端构建",
+    "slug": "your-website-may-not-need-front-end-builds",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "性能优化"
+    ]
+}

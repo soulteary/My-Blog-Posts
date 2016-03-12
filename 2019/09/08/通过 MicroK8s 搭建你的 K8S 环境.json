@@ -1,0 +1,16 @@
+{
+    "date": "2019-09-08 08:36:00",
+    "title": "通过 MicroK8s 搭建你的 K8s 环境",
+    "slug": "build-your-k8s-environment-with-microk8s",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Kubernetes",
+        "Docker",
+        "Linux/Mac"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "date": "2013-01-25 10:38:02",
+    "title": "javascript作用域链那些事",
+    "slug": "talk-about-scope-chain",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "作用域链"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "date": "2019-03-11 13:40:00",
+    "title": "远程管理 Mac OSX 设备",
+    "slug": "mac-osx-remote-management",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "FRP",
+        "VNC",
+        "Linux/Mac"
+    ]
+}

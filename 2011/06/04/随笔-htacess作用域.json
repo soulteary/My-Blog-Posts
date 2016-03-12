@@ -1,0 +1,21 @@
+{
+    "date": "2011-06-04 15:04:38",
+    "title": "[随笔]htacess作用域",
+    "slug": "%e9%9a%8f%e7%ac%94htacess%e4%bd%9c%e7%94%a8%e5%9f%9f",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "网站相关",
+            "slug": "website"
+        }
+    ],
+    "tag": [
+        "Apache",
+        "htaccess",
+        "站点建设"
+    ],
+    "alias": "%e9%9a%8f%e7%ac%94htacess%e4%bd%9c%e7%94%a8%e5%9f%9f"
+}

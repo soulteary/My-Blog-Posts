@@ -1,0 +1,17 @@
+{
+    "date": "2019-07-27 22:24:00",
+    "title": "使用代码仓库管理 GitLab CI 变量",
+    "slug": "use-the-code-repository-to-manage-gitlab-ci-variables",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CI/CD",
+        "GitLab",
+        "Linux/Mac",
+        "代码仓库"
+    ]
+}

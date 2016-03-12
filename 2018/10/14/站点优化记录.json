@@ -1,0 +1,20 @@
+{
+    "date": "2018-10-14 23:57:00",
+    "title": "站点优化记录",
+    "slug": "site-optimization-record",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "网站相关",
+            "slug": "website"
+        }
+    ],
+    "tag": [
+        "优化技巧",
+        "站点建设",
+        "重构功能"
+    ]
+}

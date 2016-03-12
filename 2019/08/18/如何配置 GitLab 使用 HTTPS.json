@@ -1,0 +1,17 @@
+{
+    "date": "2019-08-18 20:57:00",
+    "title": "如何配置 GitLab 使用 HTTPS",
+    "slug": "how-to-configure-gitlab-to-use-https",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CI/CD",
+        "GitLab",
+        "Linux/Mac",
+        "代码仓库"
+    ]
+}

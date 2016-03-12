@@ -1,0 +1,17 @@
+{
+    "date": "2018-09-29 17:14:00",
+    "title": "GitLab 迁移之后的事情",
+    "slug": "after-gitlab-migration",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CI/CD",
+        "GitLab",
+        "Linux/Mac",
+        "数据迁移"
+    ]
+}

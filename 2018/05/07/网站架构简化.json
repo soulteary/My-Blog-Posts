@@ -1,0 +1,20 @@
+{
+    "date": "2018-05-07 23:55:00",
+    "title": "网站架构简化",
+    "slug": "refactor-and-recent",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "网站相关",
+            "slug": "website"
+        }
+    ],
+    "tag": [
+        "优化技巧",
+        "站点建设",
+        "重构功能"
+    ]
+}

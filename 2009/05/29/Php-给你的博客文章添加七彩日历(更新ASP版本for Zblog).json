@@ -1,0 +1,17 @@
+{
+    "date": "2009-05-29 20:27:40",
+    "title": "[Php]给你的博客文章添加七彩日历(更新ASP版本for Zblog)",
+    "slug": "php-how-to-diy-a-nice-calendar",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "ASP",
+        "CSS",
+        "PHP",
+        "日历"
+    ]
+}

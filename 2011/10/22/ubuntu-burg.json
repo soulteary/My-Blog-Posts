@@ -1,0 +1,17 @@
+{
+    "date": "2011-10-22 04:30:30",
+    "title": "[ubuntu]Burg",
+    "slug": "ubuntu-burg",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Linux/Mac",
+        "Ubuntu",
+        "burg",
+        "资料收集"
+    ]
+}

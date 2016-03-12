@@ -1,0 +1,21 @@
+{
+    "date": "2019-02-01 15:09:00",
+    "title": "Hugo 跨版本升级",
+    "slug": "upgrade-hugo-across-versions",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "网站相关",
+            "slug": "website"
+        }
+    ],
+    "tag": [
+        "Hugo",
+        "Linux/Mac",
+        "重构功能",
+        "站点建设"
+    ]
+}

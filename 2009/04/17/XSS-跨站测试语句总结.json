@@ -1,0 +1,16 @@
+{
+    "date": "2009-04-17 12:11:36",
+    "title": "[XSS]跨站测试语句总结",
+    "slug": "xss-test-codes",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "XSS",
+        "跨站"
+    ]
+}

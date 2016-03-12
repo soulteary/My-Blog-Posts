@@ -1,0 +1,17 @@
+{
+    "date": "2012-02-04 15:00:27",
+    "title": "XMAPP子域名设置，实现本地测试",
+    "slug": "xmapp-sub-domian",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Apache",
+        "Web",
+        "子域名",
+        "本地测试"
+    ]
+}

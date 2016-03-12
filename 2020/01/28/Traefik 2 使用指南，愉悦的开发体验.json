@@ -1,0 +1,17 @@
+{
+    "date": "2020-01-28 12:59:00",
+    "title": "Traefik 2 使用指南，愉悦的开发体验",
+    "slug": "traefik-2-user-guide-pleasant-development-experience",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Docker",
+        "Linux/Mac",
+        "Traefik",
+        "服务发现"
+    ]
+}

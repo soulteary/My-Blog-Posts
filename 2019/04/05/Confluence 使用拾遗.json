@@ -1,0 +1,18 @@
+{
+    "date": "2019-04-05 02:09:00",
+    "title": "Confluence 容器化使用拾遗",
+    "slug": "confluence-containerizes-the-use-of-pickups",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Docker",
+        "Linux/Mac",
+        "Confluence",
+        "Traefik",
+        "Wiki"
+    ]
+}

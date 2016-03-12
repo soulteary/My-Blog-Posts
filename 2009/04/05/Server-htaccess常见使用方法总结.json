@@ -1,0 +1,20 @@
+{
+    "date": "2009-04-05 04:11:09",
+    "title": "[Server]htaccess常见使用方法总结",
+    "slug": "how-to-use-htaccess",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "网站相关",
+            "slug": "website"
+        }
+    ],
+    "tag": [
+        "Apache",
+        "htaccess",
+        "站点建设"
+    ]
+}

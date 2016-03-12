@@ -1,0 +1,16 @@
+{
+    "date": "2018-10-03 12:08:00",
+    "title": "简单的 Kubernetes 集群搭建",
+    "slug": "how-to-get-your-k8s-cluster",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CI/CD",
+        "Kubernetes",
+        "Linux/Mac"
+    ]
+}

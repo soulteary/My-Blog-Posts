@@ -1,0 +1,21 @@
+{
+    "date": "2012-01-27 11:32:10",
+    "title": "评论链接过滤功能",
+    "slug": "%e8%af%84%e8%ae%ba%e9%93%be%e6%8e%a5%e8%bf%87%e6%bb%a4%e5%8a%9f%e8%83%bd",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "网站相关",
+            "slug": "website"
+        }
+    ],
+    "tag": [
+        "PHP",
+        "站点建设",
+        "重构功能"
+    ],
+    "alias": "%e8%af%84%e8%ae%ba%e9%93%be%e6%8e%a5%e8%bf%87%e6%bb%a4%e5%8a%9f%e8%83%bd"
+}

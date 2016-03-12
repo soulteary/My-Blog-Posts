@@ -1,0 +1,16 @@
+{
+    "date": "2009-03-30 05:04:52",
+    "title": "PHP date() 函数获取时间不正确",
+    "slug": "php-date-err",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "PHP",
+        "date",
+        "时间处理"
+    ]
+}

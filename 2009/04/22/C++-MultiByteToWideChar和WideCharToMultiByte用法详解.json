@@ -1,0 +1,18 @@
+{
+    "date": "2009-04-22 16:03:10",
+    "title": "[C++]MultiByteToWideChar和WideCharToMultiByte用法详解",
+    "slug": "multibytetowidechar-widechartomultibyte",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "C",
+        "C &amp; C++",
+        "MultiByteToWideChar",
+        "WideCharToMultiByte",
+        "Windows"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "date": "2009-05-27 19:35:06",
+    "title": "[JS]给你的博客增加繁简转换功能",
+    "slug": "js-trans-your-chinese",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "繁简转换"
+    ]
+}

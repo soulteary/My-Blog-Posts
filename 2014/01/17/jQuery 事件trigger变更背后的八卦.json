@@ -1,0 +1,17 @@
+{
+    "date": "2014-01-17 23:57:58",
+    "title": "jQuery 事件trigger变更背后的八卦",
+    "slug": "jquery-trigger-changes",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "jQuery",
+        "trigger",
+        "非官方api变更"
+    ]
+}

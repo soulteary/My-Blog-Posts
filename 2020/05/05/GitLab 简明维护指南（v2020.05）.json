@@ -1,0 +1,17 @@
+{
+    "date": "2020-05-05 06:43:00",
+    "title": "GitLab 简明维护指南（v2020.05）",
+    "slug": "gitlab-concise-maintenance-guide-v2020-05",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "GitLab",
+        "Docker",
+        "CI/CD",
+        "Linux/Mac"
+    ]
+}

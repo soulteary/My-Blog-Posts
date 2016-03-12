@@ -1,0 +1,20 @@
+{
+    "date": "2011-11-02 06:59:40",
+    "title": "[随笔]PINK DOT",
+    "slug": "%e9%9a%8f%e7%ac%94pink-dot",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "生活点滴",
+            "slug": "life"
+        }
+    ],
+    "tag": [
+        "我的草稿",
+        "练习"
+    ],
+    "alias": "%e9%9a%8f%e7%ac%94pink-dot"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2012-02-06 13:29:29",
+    "title": "淘宝开源Tengine(Nginx)服务器",
+    "slug": "tengine",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "资料分享",
+            "slug": "share"
+        }
+    ],
+    "tag": [
+        "Nginx",
+        "Tengine",
+        "Web",
+        "实用软件",
+        "开源",
+        "淘宝"
+    ]
+}

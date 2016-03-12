@@ -1,0 +1,14 @@
+{
+    "date": "2014-01-03 10:27:32",
+    "title": "正则表达式游戏",
+    "slug": "regexp-game",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript"
+    ]
+}

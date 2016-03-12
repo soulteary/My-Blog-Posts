@@ -1,0 +1,17 @@
+{
+    "date": "2018-10-16 14:21:00",
+    "title": "使用传统前端技术增强客户端缓存能力",
+    "slug": "use-traditional-front-end-technology-to-enhance-client-caching-capabilities",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "PWA",
+        "ServiceWorker",
+        "性能优化"
+    ]
+}

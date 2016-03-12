@@ -1,0 +1,18 @@
+{
+    "date": "2019-02-11 18:48:00",
+    "title": "使用 Docker 搭建你的Wiki（DokuWiki）",
+    "slug": "build-your-own-wiki-with-docker-dokuwiki",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Docker",
+        "Linux/Mac",
+        "DokuWiki",
+        "Traefik",
+        "Wiki"
+    ]
+}

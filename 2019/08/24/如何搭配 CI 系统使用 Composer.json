@@ -1,0 +1,19 @@
+{
+    "date": "2019-08-24 20:51:00",
+    "title": "如何搭配 CI 系统使用 Composer",
+    "slug": "how-to-use-composer-with-ci-system",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CI/CD",
+        "Composer",
+        "PHP",
+        "Docker",
+        "Linux/Mac",
+        "代码仓库"
+    ]
+}

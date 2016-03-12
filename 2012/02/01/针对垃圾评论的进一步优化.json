@@ -1,0 +1,19 @@
+{
+    "date": "2012-02-01 12:21:52",
+    "title": "针对垃圾评论的进一步优化",
+    "slug": "%e9%92%88%e5%af%b9%e5%9e%83%e5%9c%be%e8%af%84%e8%ae%ba%e7%9a%84%e8%bf%9b%e4%b8%80%e6%ad%a5%e4%bc%98%e5%8c%96",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "PHP",
+        "WORDPRESS",
+        "垃圾评论",
+        "头像缓存",
+        "脚本超时"
+    ],
+    "alias": "%e9%92%88%e5%af%b9%e5%9e%83%e5%9c%be%e8%af%84%e8%ae%ba%e7%9a%84%e8%bf%9b%e4%b8%80%e6%ad%a5%e4%bc%98%e5%8c%96"
+}

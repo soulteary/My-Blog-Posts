@@ -1,0 +1,17 @@
+{
+    "date": "2020-03-15 23:36:00",
+    "title": "使用 Docker 和 Traefik v2 搭建 Flarum 轻论坛应用",
+    "slug": "building-a-flarum-forum-with-docker-and-traefik-v2",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Flarum",
+        "Traefik",
+        "PHP",
+        "Docker"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "date": "2013-11-11 06:58:37",
+    "title": "JavaScript使用正则表达式去除字符串空格效率简单的探讨",
+    "slug": "javascript-regexp-for-trim",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "效率",
+        "正则"
+    ]
+}

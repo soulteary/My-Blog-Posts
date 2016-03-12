@@ -1,0 +1,17 @@
+{
+    "date": "2018-06-13 16:10:00",
+    "title": "个人开发者的服务器日志收集",
+    "slug": "server-log-collection-for-individual-developers",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Linux/Mac",
+        "Synology",
+        "frp",
+        "rsyslog"
+    ]
+}

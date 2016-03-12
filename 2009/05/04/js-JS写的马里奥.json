@@ -1,0 +1,21 @@
+{
+    "date": "2009-05-04 01:42:12",
+    "title": "[js]JS写的马里奥",
+    "slug": "js-mario",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "资料分享",
+            "slug": "share"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "休闲一刻",
+        "顶蘑菇",
+        "马里奥"
+    ]
+}

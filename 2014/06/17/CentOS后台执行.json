@@ -1,0 +1,17 @@
+{
+    "date": "2014-06-17 19:57:40",
+    "title": "CentOS后台执行",
+    "slug": "centos-background-tasks",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CentOS",
+        "Linux/Mac",
+        "nohup",
+        "后台执行"
+    ]
+}

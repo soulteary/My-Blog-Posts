@@ -1,0 +1,18 @@
+{
+    "date": "2009-04-23 18:14:20",
+    "title": "[C++]用 QueryPerformanceFrequency 和 QueryPerformanceCounter 进行高精度计时",
+    "slug": "c-queryperformancecounter-queryperformancefrequency",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "C",
+        "C &amp; C++",
+        "QueryPerformanceCounter",
+        "QueryPerformanceFrequency",
+        "高精度计时"
+    ]
+}

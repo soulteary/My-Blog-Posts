@@ -1,0 +1,15 @@
+{
+    "date": "2014-01-16 01:40:30",
+    "title": "蜂鸟",
+    "slug": "hummingbird",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "JavaScript",
+        "蜂鸟"
+    ]
+}

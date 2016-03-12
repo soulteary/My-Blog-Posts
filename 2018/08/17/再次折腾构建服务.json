@@ -1,0 +1,17 @@
+{
+    "date": "2018-08-17 23:19:00",
+    "title": "再次折腾构建服务",
+    "slug": "optimize-build-services-again",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CI/CD",
+        "Docker",
+        "GitLab",
+        "Linux/Mac"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2019-04-19 17:11:00",
+    "title": "容器化 Confluence 使用拾遗",
+    "slug": "talk-about-confluence-with-docker",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Docker",
+        "Linux/Mac",
+        "Confluence",
+        "Traefik",
+        "Wiki"
+    ]
+}

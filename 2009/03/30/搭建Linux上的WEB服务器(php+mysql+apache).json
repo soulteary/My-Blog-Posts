@@ -1,0 +1,19 @@
+{
+    "date": "2009-03-30 05:18:19",
+    "title": "搭建Linux上的WEB服务器(php+mysql+apache)",
+    "slug": "linux-web-php-sql-apache",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Apache",
+        "Linux/Mac",
+        "MySQL",
+        "PHP",
+        "WEB服务器",
+        "资料收集"
+    ]
+}

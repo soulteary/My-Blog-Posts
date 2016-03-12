@@ -1,0 +1,17 @@
+{
+    "date": "2013-05-26 08:54:43",
+    "title": "配置PPTPD的一些记录",
+    "slug": "pptpd-configuration",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Linux/Mac",
+        "PPTP",
+        "iptables",
+        "linux"
+    ]
+}

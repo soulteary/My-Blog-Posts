@@ -1,0 +1,16 @@
+{
+    "date": "2018-09-14 21:44:00",
+    "title": "使用 Hugo 生成 API 接口",
+    "slug": "use-hugo-to-generate-the-api-interface",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "API",
+        "Hugo",
+        "前端积累"
+    ]
+}

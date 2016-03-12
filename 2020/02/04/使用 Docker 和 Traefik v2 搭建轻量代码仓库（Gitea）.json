@@ -1,0 +1,19 @@
+{
+    "date": "2020-02-04 21:55:00",
+    "title": "使用 Docker 和 Traefik v2 搭建轻量代码仓库（Gitea）",
+    "slug": "gitea-git-server-with-docker-and-traefik-v2",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Gitea",
+        "Git",
+        "Docker",
+        "Linux/Mac",
+        "Traefik"
+    ]
+}
+

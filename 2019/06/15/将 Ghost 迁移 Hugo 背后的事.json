@@ -1,0 +1,21 @@
+{
+    "date": "2019-06-15 10:37:00",
+    "title": "将 Ghost 迁移 Hugo 背后的事",
+    "slug": "migrating-ghost-behind-hugo",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "网站相关",
+            "slug": "website"
+        }
+    ],
+    "tag": [
+        "Hugo",
+        "Linux/Mac",
+        "重构功能",
+        "站点建设"
+    ]
+}

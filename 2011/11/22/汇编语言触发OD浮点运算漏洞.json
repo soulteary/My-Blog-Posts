@@ -1,0 +1,19 @@
+{
+    "date": "2011-11-22 20:51:37",
+    "title": "汇编语言触发OD浮点运算漏洞",
+    "slug": "%e6%b1%87%e7%bc%96%e8%af%ad%e8%a8%80%e8%a7%a6%e5%8f%91od%e6%b5%ae%e7%82%b9%e8%bf%90%e7%ae%97%e6%bc%8f%e6%b4%9e",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "BUG",
+        "OD",
+        "桌面开发",
+        "浮点数字",
+        "资料收集"
+    ],
+    "alias": "%e6%b1%87%e7%bc%96%e8%af%ad%e8%a8%80%e8%a7%a6%e5%8f%91od%e6%b5%ae%e7%82%b9%e8%bf%90%e7%ae%97%e6%bc%8f%e6%b4%9e"
+}

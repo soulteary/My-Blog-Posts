@@ -1,0 +1,17 @@
+{
+    "date": "2013-04-15 01:43:30",
+    "title": "XSS事项 UTF-7: 消失的字符集",
+    "slug": "xss-event-missing-charset",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "HTML",
+        "JavaScript",
+        "XSS",
+        "资料收集"
+    ]
+}

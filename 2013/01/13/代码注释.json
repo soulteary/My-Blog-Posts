@@ -1,0 +1,20 @@
+{
+    "date": "2013-01-13 23:22:04",
+    "title": "代码注释",
+    "slug": "comment",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "PHP",
+        "可维护",
+        "注释",
+        "良好"
+    ]
+}

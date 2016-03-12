@@ -1,0 +1,16 @@
+{
+    "date": "2015-01-25 02:33:07",
+    "title": "加速Ghost静态资源",
+    "slug": "speedly-ghost-static-files",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Ghost",
+        "JavaScript",
+        "Node.js"
+    ]
+}

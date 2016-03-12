@@ -1,0 +1,16 @@
+{
+    "date": "2015-01-24 22:55:13",
+    "title": "简单配置服务端代理Apache",
+    "slug": "configure-apache",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "Apache",
+        "Linux/Mac",
+        "基础配置"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "date": "2017-06-28 03:16:49",
+    "title": "使用Hugo重建站点",
+    "slug": "welcome-to-hugo",
+    "categories": [
+        {
+            "name": "生活点滴",
+            "slug": "life"
+        }
+    ],
+    "tag": [
+        "Hugo",
+        "站点建设"
+    ]
+}

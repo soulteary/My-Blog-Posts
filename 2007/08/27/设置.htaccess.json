@@ -1,0 +1,22 @@
+{
+    "date": "2007-08-27 00:22:06",
+    "title": "设置.htaccess",
+    "slug": "htaccess",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        },
+        {
+            "name": "网站相关",
+            "slug": "website"
+        }
+    ],
+    "tag": [
+        "Apache",
+        "htaccess",
+        "优化技巧",
+        "站点建设",
+        "防盗链"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2012-02-21 15:12:39",
+    "title": "REMOTE_ADDR，HTTP_CLIENT_IP，HTTP_X_FORWARDED_FOR",
+    "slug": "get-user-client-ip",
+    "categories": [
+        {
+            "name": "程序记录",
+            "slug": "code"
+        }
+    ],
+    "tag": [
+        "HTTP_CLIENT_IP",
+        "HTTP_X_FORWARDED_FOR",
+        "PHP",
+        "REMOTE_ADDR"
+    ],
+    "alias": "remote_addr%ef%bc%8chttp_client_ip%ef%bc%8chttp_x_forwarded_for"
+}
